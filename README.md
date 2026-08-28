@@ -187,8 +187,8 @@ Selenium • TestNG • Postman • Manual Testing
 
 ### 🌌 Thank you for exploring my universe.
 
-**Every repository is a new planet. Every project is another mission completed.**
 
 ⭐ If you like my work, don't forget to explore my repositories!
+
 
 </div>
