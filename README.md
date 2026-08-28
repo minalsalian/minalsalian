@@ -157,8 +157,6 @@ Selenium • TestNG • Postman • Manual Testing
 
 🛰 Postman API Fundamentals Student Expert
 
-🛰 Introduction to Software Testing
-
 🛰 Deloitte Technology Job Simulation
 
 🛰 Deloitte Data Analytics Job Simulation
